@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h1>Patient Profile</h1>
+
+{% if patient %}
+    <table class="table">
+        <tr><th>Name</th><td>{{ patient.name }}</td></tr>
+        <tr><th>Age</th><td>{{ patient.age }}</td></tr>
+        <tr><th>Gender</th><td>{{ patient.gender }}</td></tr>
+        <tr><th>Smoker</th><td>{{ patient.smoker }}</td></tr>
+        <tr><th>Allergy</th><td>{{ patient.allergy }}</td></tr>
+        <tr><th>Occupation Risk</th><td>{{ patient.occupation_risk }}</td></tr>
+    </table>
+{% else %}
+    <p>No patient data stored yet.</p>
+{% endif %}
+
+{% endblock %}

@@ -1,0 +1,97 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h1>Dashboard</h1>
+
+<button onclick="location.href='{{ url_for('dashboard') }}'" class="btn-refresh">
+    Refresh Now
+</button>
+
+<div class="cards-row">
+    <div class="card">
+        <h3>Temperature</h3>
+        <p class="value">
+            {% if latest %}
+                {{ "%.1f"|format(latest.temperature|float) }} °C
+            {% else %}
+                --
+            {% endif %}
+        </p>
+    </div>
+    <div class="card">
+        <h3>Humidity</h3>
+        <p class="value">
+            {% if latest %}
+                {{ "%.1f"|format(latest.humidity|float) }} %
+            {% else %}
+                --
+            {% endif %}
+        </p>
+    </div>
+    <div class="card">
+        <h3>MQ2</h3>
+        <p class="value">
+            {% if latest %}
+                {{ latest.mq2 }}
+            {% else %}
+                --
+            {% endif %}
+        </p>
+    </div>
+    <div class="card">
+        <h3>MQ135</h3>
+        <p class="value">
+            {% if latest %}
+                {{ latest.mq135 }}
+            {% else %}
+                --
+            {% endif %}
+        </p>
+    </div>
+    <div class="card">
+        <h3>Dust Level</h3>
+        <p class="value">
+            {% if latest %}
+                {{ latest.dust_equiv | default(latest.dust, true) | int }}
+            {% else %}
+                --
+            {% endif %}
+        </p>
+    </div>
+</div>
+
+<div class="risk-card">
+    <h2>Asthma Risk Prediction</h2>
+
+    {% if latest_attack %}
+        {% set prob = latest_attack.probability %}
+        <p>Probability: {{ "%.2f"|format(prob*100) }}%</p>
+
+        <div class="risk-bar-bg">
+            <div class="risk-bar-fill"
+                 style="width: {{ (prob*100)|round(0) }}%;
+                        {% if prob < 0.35 %}
+                            background-color:#4caf50;
+                        {% elif prob < 0.65 %}
+                            background-color:#ff9800;
+                        {% else %}
+                            background-color:#f44336;
+                        {% endif %}">
+            </div>
+        </div>
+
+        <p class="risk-label">
+            {% if prob < 0.35 %}
+                LOW RISK
+            {% elif prob < 0.65 %}
+                MEDIUM RISK
+            {% else %}
+                HIGH RISK
+            {% endif %}
+        </p>
+    {% else %}
+        <p>No ML prediction available yet.</p>
+    {% endif %}
+</div>
+
+{% endblock %}

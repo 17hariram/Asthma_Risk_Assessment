@@ -1,0 +1,637 @@
+[
+  {
+    "timestamp": "2025-11-21T14:31:17",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=27.6, H=81.0, MQ2=1, MQ135=1, Dust=90.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:31:35",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=27.6, H=81.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:32:06",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=27.6, H=81.0, MQ2=1, MQ135=1, Dust=88.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:33:36",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=26.2, H=98.0, MQ2=1, MQ135=1, Dust=98.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:33:52",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=26.2, H=98.0, MQ2=1, MQ135=1, Dust=96.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:34:08",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=25.8, H=98.0, MQ2=1, MQ135=1, Dust=99.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:34:23",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=25.8, H=98.0, MQ2=1, MQ135=1, Dust=75.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:34:40",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=25.8, H=98.0, MQ2=1, MQ135=1, Dust=96.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:34:55",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=25.8, H=98.0, MQ2=1, MQ135=1, Dust=87.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:35:11",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=25.8, H=98.0, MQ2=1, MQ135=1, Dust=87.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:35:26",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=25.8, H=98.0, MQ2=1, MQ135=1, Dust=89.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:35:42",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=25.8, H=98.0, MQ2=1, MQ135=1, Dust=109.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:35:58",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=25.8, H=98.0, MQ2=1, MQ135=1, Dust=93.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:36:14",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=25.8, H=98.0, MQ2=1, MQ135=1, Dust=100.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:46:59",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=31.8, H=94.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:52:14",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=34.7, H=61.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:52:30",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=34.7, H=61.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:52:46",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=34.7, H=60.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:53:03",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=34.7, H=60.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:53:19",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=34.7, H=60.0, MQ2=1, MQ135=1, Dust=75.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:53:36",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=34.7, H=60.0, MQ2=1, MQ135=1, Dust=76.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:53:53",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.2, H=59.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:54:10",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.2, H=59.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:54:25",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.0, H=59.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:54:41",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.0, H=59.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:54:57",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.1, H=59.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:55:12",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.2, H=59.0, MQ2=1, MQ135=1, Dust=77.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:55:29",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.2, H=59.0, MQ2=1, MQ135=1, Dust=87.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:55:44",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.2, H=59.0, MQ2=1, MQ135=1, Dust=87.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:56:00",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.2, H=59.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:56:15",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.2, H=59.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:56:31",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.2, H=59.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:56:46",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.2, H=58.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:57:02",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.2, H=58.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:57:17",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.2, H=58.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:57:33",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.2, H=58.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:57:49",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.2, H=58.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:58:04",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.2, H=57.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:58:20",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.2, H=57.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:58:36",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.2, H=57.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:58:51",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.2, H=57.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:59:07",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.2, H=57.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:59:22",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.4, H=56.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:59:38",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=56.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:59:53",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=56.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:00:09",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=56.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:00:25",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=56.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:00:41",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=56.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:00:56",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=56.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:01:12",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=56.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:01:27",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=56.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:01:45",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=56.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:02:00",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=55.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:02:16",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=55.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:02:32",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=55.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:02:50",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=55.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:03:05",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=55.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:03:22",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=55.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:03:38",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:03:54",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:04:11",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:04:27",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:04:43",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:04:59",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:05:15",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:05:32",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:05:48",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:06:04",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:06:20",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:06:37",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=67.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:06:52",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:07:09",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=72.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:07:24",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=75.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:07:41",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=77.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:07:57",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=78.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:08:14",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=78.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:08:29",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=78.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:08:48",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:09:05",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=89.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:09:23",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=78.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:09:39",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:09:55",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:11",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:27",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=78.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:42",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:59",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:11:16",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=54.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:11:37",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:11:53",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:12:13",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:12:30",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:12:46",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:13:01",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:13:20",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=76.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:13:35",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:14:14",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=55.0, MQ2=1, MQ135=1, Dust=76.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:14:35",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=55.0, MQ2=1, MQ135=1, Dust=87.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:14:51",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.5, H=54.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:15:10",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.9, H=54.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:15:26",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.9, H=54.0, MQ2=1, MQ135=1, Dust=75.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:15:43",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=37.4, H=53.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:15:58",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=37.4, H=53.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:17:19",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.9, H=55.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:17:36",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.9, H=55.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:17:56",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.9, H=54.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:18:12",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.9, H=54.0, MQ2=1, MQ135=0, Dust=210.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:18:30",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.9, H=79.0, MQ2=1, MQ135=1, Dust=148.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:18:46",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=85.0, MQ2=1, MQ135=1, Dust=120.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:21:54",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=34.2, H=70.0, MQ2=1, MQ135=1, Dust=367.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:23:57",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.3, H=57.0, MQ2=1, MQ135=1, Dust=101.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:24:45",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.9, H=55.0, MQ2=1, MQ135=1, Dust=97.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:25:01",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.9, H=55.0, MQ2=1, MQ135=1, Dust=96.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:25:17",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=36.9, H=54.0, MQ2=1, MQ135=1, Dust=94.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:25:33",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=37.4, H=54.0, MQ2=1, MQ135=1, Dust=93.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:25:49",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=37.4, H=53.0, MQ2=1, MQ135=1, Dust=93.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:26:05",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=37.4, H=53.0, MQ2=1, MQ135=1, Dust=93.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:26:20",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=37.4, H=53.0, MQ2=1, MQ135=1, Dust=91.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:26:36",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=38.0, H=51.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:26:52",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=38.0, H=51.0, MQ2=1, MQ135=1, Dust=89.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:27:07",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=38.0, H=51.0, MQ2=1, MQ135=1, Dust=93.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:27:23",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=38.0, H=53.0, MQ2=1, MQ135=1, Dust=91.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:27:53",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=37.4, H=55.0, MQ2=1, MQ135=1, Dust=89.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:08",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=37.4, H=53.0, MQ2=1, MQ135=1, Dust=89.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:24",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=37.4, H=53.0, MQ2=1, MQ135=1, Dust=94.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:39",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=37.4, H=52.0, MQ2=1, MQ135=1, Dust=89.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:55",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=37.4, H=52.0, MQ2=1, MQ135=1, Dust=88.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:29:10",
+    "message": "HIGH Immediate Asthma Risk Detected!",
+    "details": "T=37.4, H=52.0, MQ2=1, MQ135=1, Dust=88.0"
+  }
+]

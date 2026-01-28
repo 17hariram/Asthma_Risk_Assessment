@@ -1,0 +1,13 @@
+{
+  "name": "Hari Ram",
+  "age": 21,
+  "gender": "Male",
+  "smoker": "Non-smoker",
+  "allergy": "Yes",
+  "phone": "7358099905",
+  "patient_id": "Hari",
+  "occupation_risk": 2,
+  "allergy_present": "No",
+  "allergy_type": "None",
+  "occupation": "Home/Office"
+}

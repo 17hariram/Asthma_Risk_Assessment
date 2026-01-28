@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h1>Sensor Graphs</h1>
+
+{% if readings %}
+    <canvas id="tempChart"></canvas>
+    <canvas id="humChart"></canvas>
+    <canvas id="dustChart"></canvas>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        const readings = {{ readings|tojson }};
+        const labels = readings.map(r => r.time);
+
+        const temps = readings.map(r => r.temperature);
+        const hums  = readings.map(r => r.humidity);
+        const dusts = readings.map(r => r.dust_equiv ?? r.dust);
+
+        function makeChart(canvasId, label, data) {
+            const ctx = document.getElementById(canvasId).getContext('2d');
+            new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: label,
+                        data: data,
+                        fill: false,
+                        tension: 0.2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    scales: {
+                        x: {
+                            ticks: { autoSkip: true, maxTicksLimit: 10 }
+                        }
+                    }
+                }
+            });
+        }
+
+        makeChart('tempChart', 'Temperature (°C)', temps);
+        makeChart('humChart', 'Humidity (%)', hums);
+        makeChart('dustChart', 'Dust Level', dusts);
+    </script>
+{% else %}
+    <p>No sensor data available.</p>
+{% endif %}
+
+{% endblock %}

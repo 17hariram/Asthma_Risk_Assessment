@@ -1,0 +1,1926 @@
+[
+  {
+    "timestamp": "2025-11-18 02:02:25.211639",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 1696791,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.3,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 93
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:02:50.574784",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 1722195,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.3,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 90
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:04:29.027790",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 1815897,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.8,
+      "humidity": 28,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 96
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:04:54.358117",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 1846003,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.8,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 81
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:05:19.697814",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 1871393,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.8,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 90
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:05:47.744196",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 1899434,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.8,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 93
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:06:12.598553",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 1924240,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.8,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 94
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:07:00.330420",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 1971959,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.8,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 93
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:07:30.645262",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 2002275,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.8,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 86
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:07:58.321810",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 2030020,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.3,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 94
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:08:27.036403",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 2055832,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.3,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 94
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:08:57.075282",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 2088695,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.3,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 93
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:09:22.879306",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 2114511,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.3,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 86
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:09:48.884502",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 2140521,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.3,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 94
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:10:16.860353",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 2168560,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.3,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 93
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:10:47.988848",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 2196744,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.3,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 85
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:11:31.569916",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 2225717,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.3,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 94
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:11:35.390603",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 2247036,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.3,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 96
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:12:01.099560",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 2272723,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.3,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 94
+    }
+  },
+  {
+    "timestamp": "2025-11-18 02:12:26.610221",
+    "probability": 0.9648741483688354,
+    "values": {
+      "patient_id": "P001",
+      "timestamp": 2297916,
+      "age": 45,
+      "gender": 0,
+      "smoker": 1,
+      "allergy": 1,
+      "temperature": 31.3,
+      "humidity": 27,
+      "mq2": 1,
+      "mq135": 1,
+      "dust_equiv": 85
+    }
+  },
+  {
+    "timestamp": "2025-11-21T00:19:41.977868",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=44.0, MQ2=1, MQ135=1, Dust=75.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:19:57.845943",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=42.0, MQ2=1, MQ135=1, Dust=88.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:20:13.709701",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.7, H=42.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:20:33.741216",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=42.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:20:49.037462",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=42.0, MQ2=1, MQ135=1, Dust=78.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:21:28.225489",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=42.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:21:45.119863",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=42.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:22:01.423765",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=42.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:22:16.840905",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=42.0, MQ2=1, MQ135=1, Dust=78.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:22:34.476024",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=42.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:22:52.967190",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=42.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:23:09.692254",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=42.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:23:25.151792",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:23:44.997799",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:24:00.345102",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:24:18.417332",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=72.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:24:35.413654",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=75.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:24:51.971211",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:25:07.183113",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:25:23.858605",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:25:40.945820",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=70.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:25:59.957228",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=79.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:26:15.870515",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:26:34.694158",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:26:52.755485",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:27:10.653765",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:27:31.469200",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:27:49.540689",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=42.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:28:06.346328",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.0, H=42.0, MQ2=1, MQ135=1, Dust=78.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:28:24.647050",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=41.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:28:40.385752",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=41.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:28:57.009318",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=78.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:29:12.277347",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:29:28.659377",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:29:44.109177",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:30:01.551005",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:30:19.669652",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=70.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:30:36.138730",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:30:54.311023",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=72.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:31:10.543502",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=41.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:31:26.105078",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=42.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:31:44.552892",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=41.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:31:59.836944",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=41.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:32:19.041308",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.5, H=41.0, MQ2=1, MQ135=1, Dust=74.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:32:36.152719",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.5, H=40.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:32:52.110940",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.5, H=40.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:33:09.035397",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.5, H=40.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:33:27.252209",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.5, H=40.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:33:44.855805",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.5, H=40.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:34:02.052807",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.4, H=40.0, MQ2=1, MQ135=1, Dust=69.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:34:18.893493",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=40.0, MQ2=1, MQ135=1, Dust=79.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:34:36.979842",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=40.0, MQ2=1, MQ135=1, Dust=77.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:34:52.340192",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=40.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:35:10.567556",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=40.0, MQ2=1, MQ135=1, Dust=73.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:35:31.792322",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=40.0, MQ2=1, MQ135=1, Dust=77.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:35:48.874871",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=40.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:36:06.786348",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=40.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:36:25.239762",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=40.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:36:43.258902",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=40.0, MQ2=1, MQ135=1, Dust=89.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:37:01.910714",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=61.0, MQ2=1, MQ135=1, Dust=90.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:37:19.853986",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=63.0, MQ2=1, MQ135=1, Dust=87.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:37:38.018719",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.0, H=56.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:37:56.868861",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.0, H=50.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:38:13.859245",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.0, H=47.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:38:31.906286",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.0, H=46.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:38:51.173672",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.0, H=44.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:39:07.512816",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=44.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:39:26.374837",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=44.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:39:52.501596",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=43.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:40:09.471197",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=43.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:40:29.009757",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=43.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:40:46.826988",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=42.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:41:02.346285",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=42.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:41:21.467755",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=42.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:41:39.622279",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=42.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:41:56.452324",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=42.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:42:11.843271",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=42.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:42:30.078314",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.5, H=42.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:42:46.032025",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.8, H=41.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:43:05.820637",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=25.3, H=40.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:43:21.152389",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=25.3, H=40.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:43:40.658681",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=25.3, H=40.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:43:57.124198",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=25.8, H=39.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:44:13.820051",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=25.8, H=39.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:44:29.139720",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=26.2, H=39.0, MQ2=1, MQ135=1, Dust=72.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:44:48.278264",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=26.2, H=39.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:45:04.727704",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=26.2, H=38.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:45:26.910053",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=26.2, H=38.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:45:46.849694",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=26.2, H=38.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:46:04.919256",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=26.2, H=38.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:46:27.677264",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=26.2, H=38.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:47:12.882193",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=25.8, H=38.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:47:29.480863",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=25.8, H=37.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:47:49.036093",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=25.8, H=37.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:48:05.630750",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=25.3, H=37.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:48:22.685940",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=25.3, H=37.0, MQ2=1, MQ135=1, Dust=78.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:48:37.985448",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.8, H=38.0, MQ2=1, MQ135=1, Dust=77.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:48:55.504379",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.8, H=38.0, MQ2=1, MQ135=1, Dust=77.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:52:21.126591",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=38.0, MQ2=1, MQ135=1, Dust=77.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:52:38.432567",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=39.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:52:54.796638",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=39.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:53:17.172050",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=39.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:53:34.271426",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=39.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:53:50.767016",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=39.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:54:08.728101",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=39.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:54:24.128069",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=39.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:54:43.034148",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=39.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:54:59.461197",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=39.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:55:18.393264",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=39.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:55:34.501451",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=67.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:55:52.788868",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.0, H=62.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:56:09.310164",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.0, H=53.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:56:27.892372",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.0, H=49.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:56:44.794435",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.0, H=47.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:57:02.841175",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.0, H=45.0, MQ2=1, MQ135=1, Dust=77.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:57:18.879205",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.0, H=44.0, MQ2=1, MQ135=1, Dust=78.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:57:41.650359",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.0, H=43.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:57:59.666174",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.0, H=43.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:58:18.302743",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=42.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:58:37.282524",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=42.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:58:55.678792",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=42.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:59:13.897885",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=41.0, MQ2=1, MQ135=1, Dust=78.0"
+  },
+  {
+    "timestamp": "2025-11-21T00:59:49.659109",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=41.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T01:00:08.278384",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=41.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T01:00:27.643881",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=41.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T01:00:42.979513",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=40.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T01:00:59.187748",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=40.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T01:01:15.894618",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=40.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T01:01:56.633978",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=40.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T01:02:13.532306",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.4, H=40.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T01:02:30.007098",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=40.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T01:02:51.678034",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=40.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T01:03:09.849937",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=39.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T01:03:27.741461",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=39.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T01:03:47.484760",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=39.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T01:04:18.671604",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=24.1, H=39.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T01:04:35.830750",
+    "probability": 0.5443432927131653,
+    "risk_label": "MEDIUM RISK",
+    "details": "T=23.8, H=39.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:31:17",
+    "probability": 0.9883686304092407,
+    "risk_label": "HIGH RISK",
+    "details": "T=27.6, H=81.0, MQ2=1, MQ135=1, Dust=90.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:31:35",
+    "probability": 0.9876903295516968,
+    "risk_label": "HIGH RISK",
+    "details": "T=27.6, H=81.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:32:06",
+    "probability": 0.9805483818054199,
+    "risk_label": "HIGH RISK",
+    "details": "T=27.6, H=81.0, MQ2=1, MQ135=1, Dust=88.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:33:36",
+    "probability": 0.9828991889953613,
+    "risk_label": "HIGH RISK",
+    "details": "T=26.2, H=98.0, MQ2=1, MQ135=1, Dust=98.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:33:52",
+    "probability": 0.9814002513885498,
+    "risk_label": "HIGH RISK",
+    "details": "T=26.2, H=98.0, MQ2=1, MQ135=1, Dust=96.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:34:08",
+    "probability": 0.9828991889953613,
+    "risk_label": "HIGH RISK",
+    "details": "T=25.8, H=98.0, MQ2=1, MQ135=1, Dust=99.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:34:23",
+    "probability": 0.9805483818054199,
+    "risk_label": "HIGH RISK",
+    "details": "T=25.8, H=98.0, MQ2=1, MQ135=1, Dust=75.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:34:40",
+    "probability": 0.9698454141616821,
+    "risk_label": "HIGH RISK",
+    "details": "T=25.8, H=98.0, MQ2=1, MQ135=1, Dust=96.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:34:55",
+    "probability": 0.9628562927246094,
+    "risk_label": "HIGH RISK",
+    "details": "T=25.8, H=98.0, MQ2=1, MQ135=1, Dust=87.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:35:11",
+    "probability": 0.9628562927246094,
+    "risk_label": "HIGH RISK",
+    "details": "T=25.8, H=98.0, MQ2=1, MQ135=1, Dust=87.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:35:26",
+    "probability": 0.9628562927246094,
+    "risk_label": "HIGH RISK",
+    "details": "T=25.8, H=98.0, MQ2=1, MQ135=1, Dust=89.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:35:42",
+    "probability": 0.9765486717224121,
+    "risk_label": "HIGH RISK",
+    "details": "T=25.8, H=98.0, MQ2=1, MQ135=1, Dust=109.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:35:58",
+    "probability": 0.9629534482955933,
+    "risk_label": "HIGH RISK",
+    "details": "T=25.8, H=98.0, MQ2=1, MQ135=1, Dust=93.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:36:14",
+    "probability": 0.9672133922576904,
+    "risk_label": "HIGH RISK",
+    "details": "T=25.8, H=98.0, MQ2=1, MQ135=1, Dust=100.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:46:59",
+    "probability": 0.9947814345359802,
+    "risk_label": "HIGH RISK",
+    "details": "T=31.8, H=94.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:52:14",
+    "probability": 0.6747154593467712,
+    "risk_label": "HIGH RISK",
+    "details": "T=34.7, H=61.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:52:30",
+    "probability": 0.6747154593467712,
+    "risk_label": "HIGH RISK",
+    "details": "T=34.7, H=61.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:52:46",
+    "probability": 0.6675596833229065,
+    "risk_label": "HIGH RISK",
+    "details": "T=34.7, H=60.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:53:03",
+    "probability": 0.6675596833229065,
+    "risk_label": "HIGH RISK",
+    "details": "T=34.7, H=60.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:53:19",
+    "probability": 0.6675596833229065,
+    "risk_label": "HIGH RISK",
+    "details": "T=34.7, H=60.0, MQ2=1, MQ135=1, Dust=75.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:53:36",
+    "probability": 0.6675596833229065,
+    "risk_label": "HIGH RISK",
+    "details": "T=34.7, H=60.0, MQ2=1, MQ135=1, Dust=76.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:53:53",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.2, H=59.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:54:10",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.2, H=59.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:54:25",
+    "probability": 0.6675596833229065,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.0, H=59.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:54:41",
+    "probability": 0.6675596833229065,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.0, H=59.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:54:57",
+    "probability": 0.6675596833229065,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.1, H=59.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:55:12",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.2, H=59.0, MQ2=1, MQ135=1, Dust=77.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:55:29",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.2, H=59.0, MQ2=1, MQ135=1, Dust=87.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:55:44",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.2, H=59.0, MQ2=1, MQ135=1, Dust=87.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:56:00",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.2, H=59.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:56:15",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.2, H=59.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:56:31",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.2, H=59.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:56:46",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.2, H=58.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:57:02",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.2, H=58.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:57:17",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.2, H=58.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:57:33",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.2, H=58.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:57:49",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.2, H=58.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:58:04",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.2, H=57.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:58:20",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.2, H=57.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:58:36",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.2, H=57.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:58:51",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.2, H=57.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:59:07",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.2, H=57.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:59:22",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.4, H=56.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:59:38",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=56.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T14:59:53",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=56.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:00:09",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=56.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:00:25",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=56.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:00:41",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=56.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:00:56",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=56.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:01:12",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=56.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:01:27",
+    "probability": 0.8527127504348755,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=56.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:01:45",
+    "probability": 0.9610141515731812,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=56.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:02:00",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=55.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:02:16",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=55.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:02:32",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=55.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:02:50",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=55.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:03:05",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=55.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:03:22",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=55.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:03:38",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:03:54",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:04:11",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:04:27",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:04:43",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:04:59",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:05:15",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:05:32",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:05:48",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:06:04",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:06:20",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:06:37",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=67.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:06:52",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:07:09",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=72.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:07:24",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=75.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:07:41",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=77.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:07:57",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=78.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:08:14",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=78.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:08:29",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=78.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:08:48",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:09:05",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=89.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:09:23",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=78.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:09:39",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:09:55",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:11",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:27",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=54.0, MQ2=1, MQ135=1, Dust=78.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:42",
+    "probability": 0.8590133190155029,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:10:59",
+    "probability": 0.8590133190155029,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:11:16",
+    "probability": 0.8590133190155029,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=54.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:11:37",
+    "probability": 0.8590133190155029,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:11:53",
+    "probability": 0.8590133190155029,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:12:13",
+    "probability": 0.8590133190155029,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=81.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:12:30",
+    "probability": 0.8590133190155029,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:12:46",
+    "probability": 0.8590133190155029,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:13:01",
+    "probability": 0.8590133190155029,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:13:20",
+    "probability": 0.8590133190155029,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=76.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:13:35",
+    "probability": 0.8590133190155029,
+    "risk_label": "HIGH RISK",
+    "details": "T=35.6, H=55.0, MQ2=1, MQ135=1, Dust=80.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:14:14",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=55.0, MQ2=1, MQ135=1, Dust=76.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:14:35",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=55.0, MQ2=1, MQ135=1, Dust=87.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:14:51",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.5, H=54.0, MQ2=1, MQ135=1, Dust=86.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:15:10",
+    "probability": 0.962883472442627,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.9, H=54.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:15:26",
+    "probability": 0.8737943768501282,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.9, H=54.0, MQ2=1, MQ135=1, Dust=75.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:15:43",
+    "probability": 0.8737943768501282,
+    "risk_label": "HIGH RISK",
+    "details": "T=37.4, H=53.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:15:58",
+    "probability": 0.8737943768501282,
+    "risk_label": "HIGH RISK",
+    "details": "T=37.4, H=53.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:17:19",
+    "probability": 0.7187954187393188,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.9, H=55.0, MQ2=1, MQ135=1, Dust=85.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:17:36",
+    "probability": 0.7187954187393188,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.9, H=55.0, MQ2=1, MQ135=1, Dust=82.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:17:56",
+    "probability": 0.7187954187393188,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.9, H=54.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:18:12",
+    "probability": 0.9592980742454529,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.9, H=54.0, MQ2=1, MQ135=0, Dust=210.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:18:30",
+    "probability": 0.9754837155342102,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.9, H=79.0, MQ2=1, MQ135=1, Dust=148.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:18:46",
+    "probability": 0.7231093049049377,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=85.0, MQ2=1, MQ135=1, Dust=120.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:21:54",
+    "probability": 0.8713005185127258,
+    "risk_label": "HIGH RISK",
+    "details": "T=34.2, H=70.0, MQ2=1, MQ135=1, Dust=367.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:23:57",
+    "probability": 0.6534231305122375,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.3, H=57.0, MQ2=1, MQ135=1, Dust=101.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:24:45",
+    "probability": 0.6857951283454895,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.9, H=55.0, MQ2=1, MQ135=1, Dust=97.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:25:01",
+    "probability": 0.6998563408851624,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.9, H=55.0, MQ2=1, MQ135=1, Dust=96.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:25:17",
+    "probability": 0.6998563408851624,
+    "risk_label": "HIGH RISK",
+    "details": "T=36.9, H=54.0, MQ2=1, MQ135=1, Dust=94.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:25:33",
+    "probability": 0.7101758122444153,
+    "risk_label": "HIGH RISK",
+    "details": "T=37.4, H=54.0, MQ2=1, MQ135=1, Dust=93.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:25:49",
+    "probability": 0.7101758122444153,
+    "risk_label": "HIGH RISK",
+    "details": "T=37.4, H=53.0, MQ2=1, MQ135=1, Dust=93.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:26:05",
+    "probability": 0.7101758122444153,
+    "risk_label": "HIGH RISK",
+    "details": "T=37.4, H=53.0, MQ2=1, MQ135=1, Dust=93.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:26:20",
+    "probability": 0.7112088799476624,
+    "risk_label": "HIGH RISK",
+    "details": "T=37.4, H=53.0, MQ2=1, MQ135=1, Dust=91.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:26:36",
+    "probability": 0.7187954187393188,
+    "risk_label": "HIGH RISK",
+    "details": "T=38.0, H=51.0, MQ2=1, MQ135=1, Dust=84.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:26:52",
+    "probability": 0.7187954187393188,
+    "risk_label": "HIGH RISK",
+    "details": "T=38.0, H=51.0, MQ2=1, MQ135=1, Dust=89.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:27:07",
+    "probability": 0.7101758122444153,
+    "risk_label": "HIGH RISK",
+    "details": "T=38.0, H=51.0, MQ2=1, MQ135=1, Dust=93.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:27:23",
+    "probability": 0.7112088799476624,
+    "risk_label": "HIGH RISK",
+    "details": "T=38.0, H=53.0, MQ2=1, MQ135=1, Dust=91.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:27:53",
+    "probability": 0.7187954187393188,
+    "risk_label": "HIGH RISK",
+    "details": "T=37.4, H=55.0, MQ2=1, MQ135=1, Dust=89.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:08",
+    "probability": 0.7187954187393188,
+    "risk_label": "HIGH RISK",
+    "details": "T=37.4, H=53.0, MQ2=1, MQ135=1, Dust=89.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:24",
+    "probability": 0.7101758122444153,
+    "risk_label": "HIGH RISK",
+    "details": "T=37.4, H=53.0, MQ2=1, MQ135=1, Dust=94.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:39",
+    "probability": 0.7187954187393188,
+    "risk_label": "HIGH RISK",
+    "details": "T=37.4, H=52.0, MQ2=1, MQ135=1, Dust=89.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:28:55",
+    "probability": 0.7187954187393188,
+    "risk_label": "HIGH RISK",
+    "details": "T=37.4, H=52.0, MQ2=1, MQ135=1, Dust=88.0"
+  },
+  {
+    "timestamp": "2025-11-21T15:29:10",
+    "probability": 0.7187954187393188,
+    "risk_label": "HIGH RISK",
+    "details": "T=37.4, H=52.0, MQ2=1, MQ135=1, Dust=88.0"
+  }
+]

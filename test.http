@@ -1,0 +1,16 @@
+POST http://192.168.1.8:5000/predict
+Content-Type: application/json
+
+{
+  "patient_id": "P001",
+  "timestamp": "2025-11-15T12:00:00",
+  "age": 45,
+  "gender": 0,
+  "smoker": 1,
+  "allergy": 1,
+  "temperature": 34.0,
+  "humidity": 55.0,
+  "mq2": 1,
+  "mq135": 1,
+  "dust_equiv": 120
+}

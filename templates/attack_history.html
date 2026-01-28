@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h1>ML Attack History</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Timestamp</th>
+            <th>Probability</th>
+            <th>Risk Label</th>
+            <th>Details</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for a in attacks %}
+            <tr>
+                <td>{{ a.timestamp }}</td>
+                <td>{{ "%.3f"|format(a.probability|float) }}</td>
+                <td>{{ a.risk_label }}</td>
+                <td>{{ a.details }}</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+{% endblock %}

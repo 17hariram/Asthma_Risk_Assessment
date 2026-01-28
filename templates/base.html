@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Asthma Monitor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<div class="layout">
+    <aside class="sidebar">
+        <div class="logo">
+            <h2>Asthma<br>Monitor</h2>
+        </div>
+        <nav class="nav">
+            <a href="{{ url_for('dashboard') }}">Dashboard</a>
+            <a href="{{ url_for('patient_profile') }}">Patient Profile</a>
+            <a href="{{ url_for('update_profile') }}">Update Patient Details</a>
+            <a href="{{ url_for('attack_history') }}">Attack History</a>
+            <a href="{{ url_for('alerts_page') }}">Alert History</a>
+            <a href="{{ url_for('graphs') }}">Sensor Graphs</a>
+        </nav>
+    </aside>
+    <main class="content">
+        {% block content %}{% endblock %}
+    </main>
+</div>
+</body>
+</html>

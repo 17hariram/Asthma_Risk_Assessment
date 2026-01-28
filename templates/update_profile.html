@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h1>Update Patient Details</h1>
+
+<form action="{{ url_for('update_profile') }}" method="post" class="form">
+    <label>
+        Name:
+        <input type="text" name="name" value="{{ patient.name }}">
+    </label>
+
+    <label>
+        Age:
+        <input type="number" name="age" value="{{ patient.age }}">
+    </label>
+
+    <label>
+        Gender:
+        <select name="gender">
+            <option value="Male"   {% if patient.gender == "Male" %}selected{% endif %}>Male</option>
+            <option value="Female" {% if patient.gender == "Female" %}selected{% endif %}>Female</option>
+        </select>
+    </label>
+
+    <label>
+        Smoker level:
+        <select name="smoker">
+            <option value="Non-smoker" {% if patient.smoker == "Non-smoker" %}selected{% endif %}>Non-smoker</option>
+            <option value="Passive smoker" {% if patient.smoker == "Passive smoker" %}selected{% endif %}>Passive smoker</option>
+            <option value="Active smoker" {% if patient.smoker == "Active smoker" %}selected{% endif %}>Active smoker</option>
+        </select>
+    </label>
+
+    <label>
+        Allergy present:
+        <select name="allergy_present">
+            <option value="No"  {% if patient.allergy_present == "No" %}selected{% endif %}>No</option>
+            <option value="Yes" {% if patient.allergy_present == "Yes" %}selected{% endif %}>Yes</option>
+        </select>
+    </label>
+
+    <label>
+        Allergy type:
+        <select name="allergy_type">
+            <option value="None"  {% if patient.allergy_type == "None" %}selected{% endif %}>None</option>
+            <option value="Dust"  {% if patient.allergy_type == "Dust" %}selected{% endif %}>Dust</option>
+            <option value="Pollen"{% if patient.allergy_type == "Pollen" %}selected{% endif %}>Pollen</option>
+            <option value="Pets"  {% if patient.allergy_type == "Pets" %}selected{% endif %}>Pets</option>
+            <option value="Other" {% if patient.allergy_type == "Other" %}selected{% endif %}>Other</option>
+        </select>
+    </label>
+
+    <label>
+        Occupation / Environment:
+        <select name="occupation">
+            <option value="Home/Office" {% if patient.occupation == "Home/Office" %}selected{% endif %}>Home / Office</option>
+            <option value="Outdoor/Traffic" {% if patient.occupation == "Outdoor/Traffic" %}selected{% endif %}>Outdoor / Traffic</option>
+            <option value="Factory/Heavy" {% if patient.occupation == "Factory/Heavy" %}selected{% endif %}>Factory / Heavy industry</option>
+        </select>
+    </label>
+
+    <button type="submit" class="btn-primary">Save</button>
+</form>
+
+{% endblock %}
